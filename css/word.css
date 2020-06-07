@@ -1,0 +1,28 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+td{
+	text-align: center;
+	border: 1px solid white;
+	font-size: 15px;
+	padding: 30px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+table{
+	position: relative;
+	left: 34.74%;
+	border: 1px solid blue;
+
+}
+
+center{
+	margin: 10px;
+	font-family: 楷体;
+	color: green;
+	font-size: 29px;
+}
